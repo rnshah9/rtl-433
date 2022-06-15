@@ -1,6 +1,5 @@
-project: rnshah9/rtl-433
+project: rtl-433
 target: rtl-433
-tests: null
 
 cmds:
   - cmd: /repo/build/src/rtl_433 -r @@
