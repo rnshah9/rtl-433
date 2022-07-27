@@ -2,4 +2,4 @@ project: rtl-433
 target: rtl-433
 
 cmds:
-  - cmd: /repo/build/src/rtl_433 -r @@
+  - cmd: /install/bin/rtl_433 -r @@
